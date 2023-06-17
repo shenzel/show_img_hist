@@ -4,9 +4,8 @@ import streamlit as st
 from skimage.io import imread
 
 
-
 # download the image
-img_url = './S__55156741.jpg'
+img_url = 'https://dic.nicovideo.jp/oekaki/83425.png'
 
 im = imread(img_url)
 
