@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'https://dic.nicovideo.jp/oekaki/83425.png'
+img_url = 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mauna_Loa_Volcano.jpg/300px-Mauna_Loa_Volcano.jpg'
 
 im = imread(img_url)
 
